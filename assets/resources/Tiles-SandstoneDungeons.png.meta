@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "1b578c63-44de-4070-bac6-3c96fbad3f4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Tiles-SandstoneDungeons": {
+      "ver": "1.0.3",
+      "uuid": "e05d4470-ac5d-41ed-97c9-1f03700a6cef",
+      "rawTextureUuid": "1b578c63-44de-4070-bac6-3c96fbad3f4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 288,
+      "height": 224,
+      "rawWidth": 288,
+      "rawHeight": 224,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
